@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "wasm2lua": "^0.8.11"
-  }
-}
