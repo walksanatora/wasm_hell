@@ -1,0 +1,4 @@
+{
+    "Lua.codeLens.enable": true,
+    "Lua.runtime.version": "LuaJIT"
+}
